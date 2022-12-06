@@ -24,15 +24,15 @@ if the string is reversed and is still the same as the original string return tr
 // You can run `node index.js` to view these console logs
 if (require.main === module) {
   // add your own custom tests in here 
-  isPalindrome("racecar");
+  //isPalindrome("racecar");
  // console.log("=>", isPalindrome("racecar"));
 
-isPalindrome("abba");
+isPalindrome(word);
   
  // console.log("=>", isPalindrome("robot"));
-isPalindrome("a");
-isPalindrome("robot");
-isPalindrome("ab")
+//isPalindrome("a");
+//isPalindrome("robot");
+//isPalindrome("ab")
 
 
 }
